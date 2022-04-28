@@ -1,6 +1,6 @@
 # Hoang Nguyen Quoc Vinh
 
-<img src="https://github.com/VinhHoang97/my-digital-cv/blob/gh-pages/img/avatar.jpg?raw=true" alt="drawing" style="width:200px;"/> <br>
+<img src="https://github.com/VinhHoang97/my-digital-cv/blob/gh-pages/avatar.jpg?raw=true" alt="drawing" style="width:200px;"/> <br>
 _Software engineer in Ho Chi Minh city, Vietnam_ <br>
 _**DoB**: 31/07/1997_ <br>
 _**Phone**: +84784096467_ <br>
