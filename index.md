@@ -1,11 +1,11 @@
-# Le Quang Nhat
+# Hoang Nguyen Quoc Vinh
 
-<img src="https://github.com/lqnhat97/my-digital-cv/blob/gh-pages/img/my_img.JPG?raw=true" alt="drawing" style="width:200px;"/> <br>
+<img src="https://github.com/VinhHoang97/my-digital-cv/blob/gh-pages/img/avatar.jpg?raw=true" alt="drawing" style="width:200px;"/> <br>
 _Software engineer in Ho Chi Minh city, Vietnam_ <br>
-_**DoB**: 24/09/1997_ <br>
-_**Phone**: +84786358044_ <br>
-_**Email**: lqnhat97@gmail.com_ <br>
-[LinkedIn](https://www.linkedin.com/in/lqnhat97/) / [GitHub](https://github.com/lqnhat97/)
+_**DoB**: 31/07/1997_ <br>
+_**Phone**: +84784096467_ <br>
+_**Email**: vinhhoang51@gmail.com_ <br>
+[LinkedIn](https://www.linkedin.com/in/vinh-hoang-dev/) / [GitHub](https://github.com/VinhHoang97/)
 
 ## 🎯 Objective
 
@@ -13,58 +13,56 @@ Seeking a position as a Software Engineer where I can utilize my software engine
 
 ## 🎓 Education
 
-**Bachelor of Information Technology** in [HCMC University of Science](https://www.hcmus.edu.vn/) - Ho Chi Minh city, Vietnam _(2015 - 2019)_
+**Bachelor of Science in Software Engineering** in [HCMC University of Science](https://www.hcmus.edu.vn/) - Ho Chi Minh city, Vietnam _(2015 - 2019)_
 
 ## ✍️ Technological skills
 
 - Having fundamental understanding of software development, OOP
 - Main language is Java
-- Recently, I'm learning Rust language
+- Having experience in Scala.
+- Having knowlegde in Banking business domain.
 - Proficiency with many relational databases
-- Can use git, docker, Jenkins, and have knowledge about cloud
+- Can use git, docker, Jenkins.
 - Having knowledge of Agile and scrum methodology
 - Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
 - Withstand high work pressure
 
 ## 👨‍💻 Working Experience
 
-**Software Engineer** @ [ubitec](https://ubitec.com/) _(Feb 2021 - Feb 2022)_ <br>
-Cards-management: Cards-management module for banking-system
+**Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - April 2022)_ <br>
+Marco Polo: Bank Portal v2
 
-- Implementing features, pages that improve the UI and accessibility of the integrations platform
-- Designing and developing apis
+- Design and initiate the Bank Portal v2 tool.
+- Implementing features, pages and modules to fullfil Operations team's requirements for Bank Portal v2 tool
 - Implementing unit test, e2e test
-- Building docker, jenkins, helm chart for deploying to the playground
+- Building docker, jenkins, using cmdb as config central.
 - Doing manual test, code review
-- **_Technologies used:_** Angular, Java (Spring boot), Jenkins, Docker, k8s, rabbitmq.
+- **_Technologies used:_** ReactJS, Java (Spring boot), Docker, cmdb, k8s, Kafka, ElasticSearch.
 
-**Backend Engineer** @ [Metanet](https://www.metanet.co.kr/) _(Nov 2019 - Jan 2021)_ <br>
-Metapay: Payroll tool for HR department <br>
-Metatest: An internal tool for testers to track their tasks <br>
-Some maintenance projects: Old JSP projects from Korean side
-
-- Designing and developing features
-- Implementing unit test
+Marco Polo: Fee Calculation Engine.
+- Design and initiate the Fee Calculation Engine.
+- Implementing logic to calculate fee for large data set.
+- Implementing unit test, e2e test
+- Building docker, jenkins, using cmdb as config central.
 - Doing manual test, code review
-- **_Technologies used:_** Angular, Java (Spring boot), Jenkins
+- **_Technologies used:_** Scala, Spark, Docker.
 
-**Software Engineer** @ [elca](https://www.elca.vn/) _(Jul 2019 - Nov 2019)_ <br>
-iPension: Switzerland Insurance management
+**Associate Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(Oct 2019 - March 2021)_ <br>
+Bank Integration: Bank Connector modules for integrating with banks gateway system.
 
-- Maintenance existing project
-- Developing new features
-- Implementing unit test
-- **_Technologies used:_** JavaFx, gRPC
+- Implementing feature and modules for integrating with banks gateway system.
+- Implementing unit test, e2e test.
+- Doing manual test, code review
+- **_Technologies used:_** Java (Jetty)
 
-**Internship** @ [Eplatform solution](https://www.eplatform.vn/) _(2018)_ <br>
-MyHR: Internal tool for HRM
+**Software Development Fresher** @ [ZaloPay](https://zalopay.vn/) _(April 2019 - Nov 2022)_ <br>
+Mock Project: E-commerce page with ZaloPay as a payment method.
 
-- Learning about how to work in professional (planning, code review, estimation)
-- Doing some tasks to get familiar with tech stacks
-- **_Technologies used:_** Java (Spring boot), VueJs
+- Implementing and design an E-commerce project integrating with ZaloPay sandbox environment.
+- Designing and developing Pages and APIs
+- Doing manual test, code review
+- **_Technologies used:_** ReactJs, Java (Spring boot), rabbitmq, ElasticSearch.
 
 ## 🧸 Interest
 
-**Travelling.** I want to know the 
-world around me.<br>
 **Learning new technology**
