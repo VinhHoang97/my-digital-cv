@@ -45,14 +45,14 @@ Marco Polo: Fee Calculation Engine.
 - Implementing unit test, e2e test
 - Building docker, Jenkins, using CMDB as config central.
 - Doing manual tests, code review
-- **_Technologies used:_** Scala, MySQL, Spark, Docker.
+- **_Technologies used:_** Scala, MySQL, Spark, Docker, k8s.
 
 Marco Polo: Reconciliation Engine 
 - Implementing feature for Reconciliation Engine to reduce workload for operation process.
 - Implementing unit test, e2e test
 - Building docker, Jenkins.
 - Doing manual tests, code review
-- **_Technologies used:_** Scala, MySQL, Spark, Docker.
+- **_Technologies used:_** Scala, MySQL, Spark, Docker, k8s.
 
 _(Oct 2019 - March 2021)_ <br>
 Bank Integration: Bank Connector modules for integrating with banks gateway system.
