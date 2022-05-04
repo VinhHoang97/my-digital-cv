@@ -37,7 +37,7 @@ Marco Polo: Bank Portal v2
 - Implementing unit test, e2e test
 - Building docker, Jenkins, using CMDB as config central.
 - Doing manual tests, code review
-- **_Technologies used:_** ReactJS, Redux-Toolkit, MySQL, Java (Spring boot), Docker, k8s, Kafka, ElasticSearch.
+- **_Technologies used:_** ReactJS, Redux-Toolkit, MySQL, Java (Spring boot), Golang, Docker, k8s, Kafka, ElasticSearch.
 
 Marco Polo: Fee Calculation Engine.
 - Design and initiate the Fee Calculation Engine.
@@ -53,6 +53,7 @@ Marco Polo: Reconciliation Engine
 - Building docker, Jenkins.
 - Doing manual tests, code review
 - **_Technologies used:_** Scala, MySQL, Spark, Docker, k8s.
+
 
 _(Oct 2019 - March 2021)_ <br>
 Bank Integration: Bank Connector modules for integrating with banks gateway system.
