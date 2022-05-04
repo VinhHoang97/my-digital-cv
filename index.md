@@ -9,7 +9,7 @@ _**Email**: vinhhoang51@gmail.com_ <br>
 
 ## 🎯 Objective
 
-Seeking a position as a Software Engineer where I can contribute my software engineering skills, abilities and experiences gained through relevant education and projects for the organization's growth.  ✌️ <br> 
+Seeking a position as a Senior Software Engineer where I can contribute my software engineering skills, abilities and experiences gained through relevant education and projects for the organization's growth.  ✌️ <br> 
 
 ## 🎓 Education
 
