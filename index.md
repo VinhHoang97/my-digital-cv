@@ -77,6 +77,6 @@ HCM.FSO_EMBEDDED_HCM18_14
 
 ## 🧸 Interest
 
-**Learning new technology**
+**Learning new technology**  <br>
 **Learning and practicing personal finance management**
 
