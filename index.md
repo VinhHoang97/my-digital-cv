@@ -19,7 +19,7 @@ Seeking a position as a Senior Software Engineer where I can contribute my softw
 
 - Having fundamental understanding of software development, OOP
 - Main language is Java
-- Having experience in Scala, and Spark for data processing.
+- Having experience in Golang, React, Redux, Scala, and Spark for data processing.
 - Having knowledge in Banking business domain.
 - Proficiency with many relational databases
 - Can use git, docker, K8s, Kafka and Jenkins.
