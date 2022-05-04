@@ -25,7 +25,7 @@ Seeking a position as a Software Engineer where I can contribute my software eng
 - Can use git, docker, Jenkins.
 - Having knowledge of Agile and Scrum methodology
 - Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
-- Withstand high work pressure
+- Withstand high work pressure.
 
 ## 👨‍💻 Working Experience
 
@@ -37,7 +37,7 @@ Marco Polo: Bank Portal v2
 - Implementing unit test, e2e test
 - Building docker, Jenkins, using CMDB as config central.
 - Doing manual tests, code review
-- **_Technologies used:_** ReactJS, MySQL, Java (Spring boot), Docker, k8s, Kafka, ElasticSearch.
+- **_Technologies used:_** ReactJS, Redux-Toolkit, MySQL, Java (Spring boot), Docker, k8s, Kafka, ElasticSearch.
 
 Marco Polo: Fee Calculation Engine.
 - Design and initiate the Fee Calculation Engine.
@@ -64,12 +64,19 @@ Bank Integration: Bank Connector modules for integrating with banks gateway syst
 
 **Software Development Fresher** @ [ZaloPay](https://zalopay.vn/) _(April 2019 - Nov 2022)_ <br>
 Mock Project: E-commerce page with ZaloPay as a payment method.
-
 - Implementing and designing an E-commerce project integrating with ZaloPay sandbox environment.
 - Designing and developing Pages and APIs
 - Doing manual tests, code review
-- **_Technologies used:_** ReactJs, Java (Spring boot),  RabbitMQ, ElasticSearch.
+- **_Technologies used:_** Java (Spring boot), RabbitMQ, ElasticSearch, ReactJs, Redux, MySQL.
+
+**Intern** @ [FPT SOFTWARE](https://www.fpt-software.com/) _(July 2018 - September 2018)_ <br>
+HCM.FSO_EMBEDDED_HCM18_14
+- Learning about development process.
+- Learning and doing Mock project on chip Arm Cortex M4 Udoo Neo.
+- **_Technologies used:_** C++, C#.
 
 ## 🧸 Interest
 
 **Learning new technology**
+**Learning and practicing personal finance management**
+
