@@ -1,7 +1,7 @@
 # Hoang Nguyen Quoc Vinh
 
 <img src="https://github.com/VinhHoang97/my-digital-cv/blob/gh-pages/avatar.jpg?raw=true" alt="drawing" style="width:300px;"/> <br>
-_Software engineer in Ho Chi Minh city, Vietnam_ <br>
+_Senior Software engineer in Ho Chi Minh city, Vietnam_ <br>
 _**DoB**: 31/07/1997_ <br>
 _**Phone**: +84784096467_ <br>
 _**Email**: vinhhoang51@gmail.com_ <br>
@@ -22,14 +22,14 @@ Seeking a position as a Software Engineer where I can contribute my software eng
 - Having experience in Scala, and Spark for data processing.
 - Having knowledge in Banking business domain.
 - Proficiency with many relational databases
-- Can use git, docker, Jenkins.
+- Can use git, docker, K8s, Kafka and Jenkins.
 - Having knowledge of Agile and Scrum methodology
 - Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
 - Withstand high work pressure.
 
 ## 👨‍💻 Working Experience
 
-**Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - April 2022)_ <br>
+**Senior Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - April 2022)_ <br>
 Marco Polo: Bank Portal v2
 
 - Design and initiate the Bank Portal v2 tool.
@@ -56,7 +56,6 @@ Marco Polo: Reconciliation Engine
 
 _(Oct 2019 - March 2021)_ <br>
 Bank Integration: Bank Connector modules for integrating with banks gateway system.
-
 - Implementing features and modules for integrating with banks gateway system.
 - Implementing unit test, e2e test.
 - Doing manual tests, code review
