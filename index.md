@@ -7,15 +7,15 @@ _**Phone**: +84784096467_ <br>
 _**Email**: vinhhoang51@gmail.com_ <br>
 [LinkedIn](https://www.linkedin.com/in/vinh-hoang-dev/) / [GitHub](https://github.com/VinhHoang97/)
 
-## 🎯 Objective
+## Objective
 
-Seeking a position as a Senior Software Engineer where I can contribute my software engineering skills, abilities and experiences gained through relevant education and projects for the organization's growth.  ✌️ <br> 
+Seeking a position as a Senior Software Engineer where I can contribute my software engineering skills, abilities and experiences gained through relevant education and projects for the organization's growth.  <br> 
 
-## 🎓 Education
+## Education
 
 **Bachelor of Science in Software Engineering** in [HCMC University of Science](https://www.hcmus.edu.vn/) - Ho Chi Minh city, Vietnam _(2015 - 2019)_
 
-## ✍️ Technological skills
+## Technological skills
 
 - Having fundamental understanding of software development, OOP
 - Main language is Java
@@ -27,7 +27,7 @@ Seeking a position as a Senior Software Engineer where I can contribute my softw
 - Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
 - Withstand high work pressure.
 
-## 👨‍💻 Working Experience
+## Working Experience
 
 **Senior Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - April 2022)_ <br>
 Marco Polo: Bank Portal v2
@@ -74,7 +74,7 @@ HCM.FSO_EMBEDDED_HCM18_14
 - Learning and doing Mock project on chip Arm Cortex M4 Udoo Neo.
 - **_Technologies used:_** C++, C#.
 
-## 🧸 Interest
+## Interest
 
 **Learning new technology**  <br>
 **Learning and practicing personal finance management**
