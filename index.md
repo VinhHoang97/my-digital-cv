@@ -29,7 +29,7 @@ Seeking a position as a Senior Software Engineer where I can contribute my softw
 
 ## Working Experience
 
-**Senior Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - Present)_ <br>
+**Senior Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - June 2022)_ <br>
 Marco Polo: Bank Portal v2
 
 - Design and initiate the Bank Portal v2 tool.
