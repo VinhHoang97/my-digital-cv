@@ -79,5 +79,5 @@ HCM.FSO_EMBEDDED_HCM18_14
 
 **Learning new technology**  <br>
 **Learning and practicing personal finance management**  <br>
-**Swimming and running **
+**Swimming and running**
 
