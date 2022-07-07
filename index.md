@@ -62,7 +62,7 @@ Bank Integration: Bank Connector modules for integrating with banks gateway syst
 - Doing manual tests, code review
 - **_Technologies used:_** Java (Jetty), MySQL.
 
-**Software Development Fresher** @ [ZaloPay](https://zalopay.vn/) _(April 2019 - Nov 2022)_ <br>
+**Software Development Fresher** @ [ZaloPay](https://zalopay.vn/) _(April 2019 - Nov 2019)_ <br>
 Mock Project: E-commerce page with ZaloPay as a payment method.
 - Implementing and designing an E-commerce project integrating with ZaloPay sandbox environment.
 - Designing and developing Pages and APIs
@@ -78,5 +78,6 @@ HCM.FSO_EMBEDDED_HCM18_14
 ## Interest
 
 **Learning new technology**  <br>
-**Learning and practicing personal finance management**
+**Learning and practicing personal finance management**  <br>
+**Swimming and running **
 
