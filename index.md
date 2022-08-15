@@ -29,6 +29,9 @@ Seeking a position as a Senior Software Engineer where I can contribute my softw
 
 ## Working Experience
 
+**Senior Developer 1** @ [Positive Thinking Company](https://positivethinking.tech/) _(June 2022 - present)_ <br>
+- **_Technologies used:_** Java
+
 **Senior Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - June 2022)_ <br>
 Marco Polo: Bank Portal v2
 
