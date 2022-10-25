@@ -21,7 +21,7 @@ Seeking a position as a Software Development Engineer where I can contribute my 
 - Main language is Java
 - Having experience in Golang, React, Redux, Scala, and Spark for data processing.
 - Having knowledge in Banking business domain.
-- Proficiency with many relational databases
+- Proficiency with relational database.
 - Can use git, docker, K8s, Kafka and Jenkins.
 - Having knowledge of Agile and Scrum methodology
 - Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
