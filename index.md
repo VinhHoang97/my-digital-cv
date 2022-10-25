@@ -35,7 +35,7 @@ Seeking a position as a Software Development Engineer where I can contribute my 
 - Implementing features, pages, and modules to fulfill the Support team's requirements for Support Dashboard.
 - Implementing unit test, e2e test.
 - Doing manual tests, code review.
-- **_Technologies used:_** Java (Spring), BuildKite, AWS RDS (MySQL), Docker, AWS services: SNS, SQS, ECS, ECR, CloudWatch.
+- **_Technologies used:_** Java (Spring), Python, BuildKite, Docker, AWS services: ECS, ECR, Lambda, SNS, SQS, CloudWatch, RDS (MySQL).
 
 **Senior Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - June 2022)_ <br>
 Marco Polo: Bank Portal v2
