@@ -9,7 +9,7 @@ _**Email**: vinhhoang51@gmail.com_ <br>
 
 ## Objective
 
-Seeking a position as a Senior Software Engineer where I can contribute my software engineering skills, abilities and experiences gained through relevant education and projects for the organization's growth.  <br> 
+Seeking a position as a Software Development Engineer where I can contribute my software engineering skills, abilities and experiences gained through relevant education and projects for the organization's growth.  <br> 
 
 ## Education
 
@@ -30,7 +30,12 @@ Seeking a position as a Senior Software Engineer where I can contribute my softw
 ## Working Experience
 
 **Senior Developer 1** @ [Positive Thinking Company](https://positivethinking.tech/) _(June 2022 - present)_ <br>
-- **_Technologies used:_** Java
+*BOT*: MessageMedia
+- Design and initiate the Campaign Hold Filters.
+- Implementing features, pages, and modules to fulfill the Support team's requirements for Support Dashboard.
+- Implementing unit test, e2e test.
+- Doing manual tests, code review.
+- **_Technologies used:_** Java (Spring), BuildKite, AWS RDS (MySQL), Docker, AWS services: SNS, SQS, ECS, ECR, CloudWatch.
 
 **Senior Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - June 2022)_ <br>
 Marco Polo: Bank Portal v2
