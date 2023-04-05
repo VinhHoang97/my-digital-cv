@@ -27,11 +27,12 @@ Seeking a position as a Software Development Engineer where I can contribute my 
 
 **Senior Developer 1** @ [Positive Thinking Company](https://positivethinking.tech/) _(June 2022 - present)_ <br>
 *BOT*: MessageMedia (https://messagemedia.com/au/)
+- Help running Scrum activities.
 - Design and initiate the a cross-brand Support Tool Platfrom.
 - Design and initiate the Campaign Hold Filters.
-- Implementing features, pages, and modules to fulfill the Support team's requirements for Support Dashboard.
-- Implementing unit test, e2e test.
-- Doing manual tests, code review.
+- Implement features, pages, and modules to fulfill the Support team's requirements for Support Dashboard.
+- Implement unit test, e2e test.
+- Implement manual tests, code review.
 - **_Achievements:_** 
    - Enhance the searching account flow performance up to 80%.
    - Help the Support Team increase their 10%-20% performance by provide new ability to block sending, verify numbers directly on Support Dashboard
@@ -40,48 +41,47 @@ Seeking a position as a Software Development Engineer where I can contribute my 
 
 **Senior Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - June 2022)_ <br>
 Marco Polo: Bank Portal v2
-
 - Design and initiate the Bank Portal v2 tool.
-- Implementing features, pages, and modules to fulfill the Operations team's requirements for the Bank Portal v2 tool
-- Implementing unit test, e2e test
-- Building docker, Jenkins, using CMDB as config central.
-- Doing manual tests, code review
+- Implement features, pages, and modules to fulfill the Operations team's requirements for the Bank Portal v2 tool
+- Implement unit test, e2e test
+- Use docker, Jenkins, and using CMDB as config central.
+- Implement manual tests, code review
 - **_Technologies used:_** ReactJS, Redux-Toolkit, MySQL, Java (Spring boot), Golang, Docker, k8s, Kafka, ElasticSearch.
 
 Marco Polo: Fee Calculation Engine.
 - Design and initiate the Fee Calculation Engine.
-- Implementing logic to calculate the fee for large data set.
-- Implementing unit test, e2e test
-- Building docker, Jenkins, using CMDB as config central.
-- Doing manual tests, code review
+- Implement logic to calculate the fee for large data set.
+- Implement unit test, e2e test
+- Use docker, Jenkins, using CMDB as config central.
+- Implement manual tests, code review
 - **_Technologies used:_** Scala, MySQL, Spark, Docker, k8s.
 
 Marco Polo: Reconciliation Engine 
-- Implementing feature for Reconciliation Engine to reduce workload for operation process.
-- Implementing unit test, e2e test
-- Building docker, Jenkins.
-- Doing manual tests, code review
+- Implement feature for Reconciliation Engine to reduce workload for operation process.
+- Implement unit test, e2e test
+- Use docker, Jenkins.
+- Implement manual tests, code review
 - **_Technologies used:_** Scala, MySQL, Spark, Docker, k8s.
 
 
 _(Oct 2019 - March 2021)_ <br>
 Bank Integration: Bank Connector modules for integrating with banks gateway system.
-- Implementing features and modules for integrating with banks gateway system.
-- Implementing unit test, e2e test.
-- Doing manual tests, code review
+- Implement features and modules for integrating with banks gateway system.
+- Implement unit test, e2e test.
+- Implement manual tests, code review
 - **_Technologies used:_** Java (Jetty), MySQL.
 
 **Software Development Fresher** @ [ZaloPay](https://zalopay.vn/) _(April 2019 - Nov 2019)_ <br>
 Mock Project: E-commerce page with ZaloPay as a payment method.
-- Implementing and designing an E-commerce project integrating with ZaloPay sandbox environment.
-- Designing and developing Pages and APIs
-- Doing manual tests, code review
+- Implement and designing an E-commerce project integrating with ZaloPay sandbox environment.
+- Design and developing Pages and APIs
+- Implement manual tests, code review
 - **_Technologies used:_** Java (Spring boot), RabbitMQ, ElasticSearch, ReactJs, Redux, MySQL.
 
 **Intern** @ [FPT SOFTWARE](https://www.fpt-software.com/) _(July 2018 - September 2018)_ <br>
 HCM.FSO_EMBEDDED_HCM18_14
-- Learning about development process.
-- Learning and doing Mock project on chip Arm Cortex M4 Udoo Neo.
+- Learn about development process.
+- Learn and work on Mock project with chip Arm Cortex M4 Udoo Neo.
 - **_Technologies used:_** C++, C#.
 
 ## Education
