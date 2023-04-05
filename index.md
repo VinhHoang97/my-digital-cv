@@ -27,12 +27,12 @@ Seeking a position as a Software Development Engineer where I can contribute my 
 
 **Senior Developer 1** @ [Positive Thinking Company](https://positivethinking.tech/) _(June 2022 - present)_ <br>
 *BOT*: MessageMedia (https://messagemedia.com/au/)
-- Help running Scrum activities.
 - Design and initiate the a cross-brand Support Tool Platfrom.
 - Design and initiate the Campaign Hold Filters.
 - Implement features, pages, and modules to fulfill the Support team's requirements for Support Dashboard.
 - Implement unit test, e2e test.
 - Implement manual tests, code review.
+- Help running Scrum activities.
 - **_Achievements:_** 
    - Enhance the searching account flow performance up to 80%.
    - Help the Support Team increase their 10%-20% performance by provide new ability to block sending, verify numbers directly on Support Dashboard
