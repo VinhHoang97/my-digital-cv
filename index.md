@@ -11,13 +11,9 @@ _**Email**: vinhhoang51@gmail.com_ <br>
 
 Seeking a position as a Software Development Engineer where I can contribute my software engineering skills, abilities and experiences gained through relevant education and projects for the organization's growth.  <br> 
 
-## Education
-
-**Bachelor of Science in Software Engineering** in [HCMC University of Science](https://www.hcmus.edu.vn/) - Ho Chi Minh city, Vietnam _(2015 - 2019)_
-
 ## Technological skills
 
-- Having fundamental understanding of software development, OOP
+- Having fundamental understanding of software development, OOP.
 - Main language is Java
 - Having experience in Golang, React, Redux, Scala, and Spark for data processing.
 - Having knowledge in Banking business domain.
@@ -31,6 +27,7 @@ Seeking a position as a Software Development Engineer where I can contribute my 
 
 **Senior Developer 1** @ [Positive Thinking Company](https://positivethinking.tech/) _(June 2022 - present)_ <br>
 *BOT*: MessageMedia
+- Design and initiate the a cross-brand Support Tool Platfrom.
 - Design and initiate the Campaign Hold Filters.
 - Implementing features, pages, and modules to fulfill the Support team's requirements for Support Dashboard.
 - Implementing unit test, e2e test.
@@ -82,6 +79,11 @@ HCM.FSO_EMBEDDED_HCM18_14
 - Learning about development process.
 - Learning and doing Mock project on chip Arm Cortex M4 Udoo Neo.
 - **_Technologies used:_** C++, C#.
+
+## Education
+
+**Bachelor of Science in Software Engineering** in [HCMC University of Science](https://www.hcmus.edu.vn/) - Ho Chi Minh city, Vietnam _(2015 - 2019)_
+
 
 ## Interest
 
