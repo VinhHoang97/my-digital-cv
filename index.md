@@ -32,7 +32,7 @@ Seeking a position as a Software Development Engineer where I can contribute my 
 - Implementing features, pages, and modules to fulfill the Support team's requirements for Support Dashboard.
 - Implementing unit test, e2e test.
 - Doing manual tests, code review.
-- **_Achievements:_**: 
+- **_Achievements:_** 
    - Enhance the searching account flow performance up to 80%.
    - Help the Support Team increase their 10%-20% performance by provide new ability to block sending, verify numbers directly on Support Dashboard
    - Aiming to reduces 20%-30% spam/fraud messages through the implementation of Campaign Hold Filters
