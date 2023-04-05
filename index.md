@@ -19,19 +19,23 @@ Seeking a position as a Software Development Engineer where I can contribute my 
 - Having knowledge in Banking business domain.
 - Proficiency with relational database.
 - Can use git, docker, K8s, Kafka and Jenkins.
-- Having knowledge of Agile and Scrum methodology
+- Having knowledge about and experience apply Agile and Scrum methodology
 - Strong self-discipline for delivering well-tested, complete features/modules under a tight schedule and the capability for rational thinking.
 - Withstand high work pressure.
 
 ## Working Experience
 
 **Senior Developer 1** @ [Positive Thinking Company](https://positivethinking.tech/) _(June 2022 - present)_ <br>
-*BOT*: MessageMedia
+*BOT*: MessageMedia (https://messagemedia.com/au/)
 - Design and initiate the a cross-brand Support Tool Platfrom.
 - Design and initiate the Campaign Hold Filters.
 - Implementing features, pages, and modules to fulfill the Support team's requirements for Support Dashboard.
 - Implementing unit test, e2e test.
 - Doing manual tests, code review.
+- **_Achievements:_**: 
+   - Enhance the searching account flow performance up to 80%.
+   - Help the Support Team increase their 10%-20% performance by provide new ability to block sending, verify numbers directly on Support Dashboard
+   - Aiming to reduces 20%-30% spam/fraud messages through the implementation of Campaign Hold Filters
 - **_Technologies used:_** Java (Spring), Python, BuildKite, Docker, AWS services: ECS, ECR, Lambda, SNS, SQS, CloudWatch, RDS (MySQL).
 
 **Senior Software Engineer** @ [ZaloPay](https://zalopay.vn/) _(April 2021 - June 2022)_ <br>
